@@ -25,6 +25,11 @@ With respect to Panay News’s responsibility for your use of the app, when you�
 
 At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Panay News does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
+
+**Panay News Tokens (PN Tokens)**
+
+This app will have in-app challenges and reward readers with digital tokens to unlock exclusive contents. These challenges include sharing our content in social media, reading news, watching ads or by regularly engaging our news app. We may include or exclude various challenges over the course of our app development phase. Token-free news contents will still be provided for our valued guest readers.
+
 **Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
